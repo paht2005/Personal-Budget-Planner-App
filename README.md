@@ -16,6 +16,7 @@ It allows users to manage their personal finances by adding income and expenses,
 - [📄 License](#-license)
 - [🤝 Contributing](#-contributing)
 - [🧠 Acknowledgements](#-acknowledgements)
+- [⭐ Future Enhancements](#-future-enhancements)
 
 ---
 
