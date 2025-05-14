@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 ## 🤝 Contributing
-We welcome contributions to improve this project!
+I welcome contributions to improve this project!
 Feel free to:
 - Submit pull requests
 - Report bugs
