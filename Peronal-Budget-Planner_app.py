@@ -1,3 +1,5 @@
+# copyright [2025] [Phat Nguyen Cong] (Github: https://github.com/paht2005)
+
 import streamlit as st
 import matplotlib.pyplot as plt
 from collections import defaultdict
